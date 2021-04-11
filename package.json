@@ -1,0 +1,30 @@
+{
+  "name": "mern_appointment_bookings",
+  "version": "1.0.0",
+  "description": "<h1>MERN Appointment Booking Application</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkdevelop/mern-appointment-booking.git"
+  },
+  "author": "arkdevelop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkdevelop/mern-appointment-booking/issues"
+  },
+  "homepage": "https://github.com/arkdevelop/mern-appointment-booking#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
