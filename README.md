@@ -1,0 +1,1 @@
+<h1>MERN Appoint Booking Application</h1>
